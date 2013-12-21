@@ -90,31 +90,31 @@ addはこのアイコンをクリックしても出る
 ---
 #配線をしていく
 
-![スクリーンショット 2013-12-21 15.59.21.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+
 
 裏表を選択して、いろいろな種類の線を用いて何とか配線を行います。
----
-#実は自動配線してくれる
 
-![スクリーンショット 2013-12-21 16.04.04.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
-
-ところが、この自動配線は完全に終わらなかったり、どう見ても美しくない配線をしてくれるので、しっかりと直しておきましょう。
+![スクリーンショット 2013-12-21 15.59.21.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
 ---
 #一旦終わり
 
-このままでもとりあえず基板の設計は終わりです。
+このまま頑張って配線を続ければ基板の設計は終わりです。
+---
+#実は自動配線してくれる
+ところが、この自動配線は完全に終わらなかったり、どう見ても美しくない配線をしてくれるので、しっかりと直しておきましょう。
+
+![スクリーンショット 2013-12-21 16.04.04.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
 ---
 #更にGNDベタをつける
+順番に押しましょう。
 
 ![スクリーンショット 2013-12-21 16.10.49.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
-
-順番に押しましょう。
 
 そして、基板を囲むように線を引きます。（両面）
 
 
 
-![スクリーンショット 2013-12-21 16.17.09.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+![スクリーンショット 2013-12-21 16.16.54.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
 ---
 #発注
 
