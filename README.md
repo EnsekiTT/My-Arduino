@@ -72,7 +72,8 @@ addはこのアイコンをクリックしても出る
 ---
 #基板上に部品を配置する
 
-![2013-12-20 15.55.16.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+![2013-12-20155516.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+
 
 ここを押すと、
 
