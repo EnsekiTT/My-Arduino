@@ -75,6 +75,8 @@ addはこのアイコンをクリックしても出る
 ![スクリーンショット 2013-12-20 15.55.16.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
 ここを押すと、
 
+[画像]
+
 こんなふうになります。
 
 ---
