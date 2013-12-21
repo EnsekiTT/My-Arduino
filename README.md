@@ -73,12 +73,10 @@ addはこのアイコンをクリックしても出る
 #基板上に部品を配置する
 
 ![スクリーンショット 2013-12-20 15.55.16.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
-
 ここを押すと、
 
-![スクリーンショット 2013-12-20 15.52.18.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
-
 こんなふうになります。
+
 ---
 #部品の位置を決める
 
