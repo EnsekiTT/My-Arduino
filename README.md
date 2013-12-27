@@ -74,13 +74,11 @@ addはこのアイコンをクリックしても出る
 
 ![2013-12-20155516.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
 
-
 ここを押すと、
 
-[画像]
+![スクリーンショット 2013-12-20 15.52.18.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
 
 こんなふうになります。
-
 
 ---
 #部品の位置を決める
