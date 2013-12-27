@@ -79,7 +79,6 @@ addはこのアイコンをクリックしても出る
 ![スクリーンショット 2013-12-20 15.52.18.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
 
 こんなふうになります。
-
 ---
 #部品の位置を決める
 
