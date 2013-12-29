@@ -129,11 +129,3 @@ addはこのアイコンをクリックしても出る
 
 発注すると出来上がった基板がお家に届きます。嬉しいですね。
 ---
-#images
-
-![2013-12-20155516.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
-
-![2013-12-20155516.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
-
-![スクリーンショット 2013-12-20 15.52.18.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
----
