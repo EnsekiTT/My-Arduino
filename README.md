@@ -87,7 +87,7 @@ addはこのアイコンをクリックしても出る
 
 上の定規ツールは左のアイコン群からDraw Dimentionでできます。
 
-![スクリーンショット 2013-12-21 15.57.08.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+![スクリーンショット 2013-12-21 15.57.08.png](https://raw.github.com/EnsekiTT/My-Arduino/master/スクリーンショット-2013-12-21-15.57.08.png)
 ---
 #配線をしていく
 
@@ -95,7 +95,7 @@ addはこのアイコンをクリックしても出る
 
 裏表を選択して、いろいろな種類の線を用いて何とか配線を行います。
 
-![スクリーンショット 2013-12-21 15.59.21.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+![スクリーンショット 2013-12-21 15.59.21.png](https://raw.github.com/EnsekiTT/My-Arduino/master/スクリーンショット-2013-12-21-15.59.21.png)
 ---
 #一旦終わり
 
@@ -104,30 +104,30 @@ addはこのアイコンをクリックしても出る
 #実は自動配線してくれる
 ところが、この自動配線は完全に終わらなかったり、どう見ても美しくない配線をしてくれるので、しっかりと直しておきましょう。
 
-![スクリーンショット 2013-12-21 16.04.04.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+![スクリーンショット 2013-12-21 16.04.04.png](https://raw.github.com/EnsekiTT/My-Arduino/master/スクリーンショット-2013-12-21-16.04.04.png)
 ---
 #更にGNDベタをつける
 順番に押しましょう。
 
-![スクリーンショット 2013-12-21 16.10.49.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+![スクリーンショット 2013-12-21 16.10.49.png](https://raw.github.com/EnsekiTT/My-Arduino/master/スクリーンショット-2013-12-21-16.10.49.png)
 
 そして、基板を囲むように線を引きます。（両面）
 
 
 
-![スクリーンショット 2013-12-21 16.16.54.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+![スクリーンショット 2013-12-21 16.16.54.png](https://raw.github.com/EnsekiTT/My-Arduino/master/スクリーンショット-2013-12-21-16.16.54.png)
 ---
 #発注
 
 表面
-![スクリーンショット 2013-12-21 15.50.04.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+![スクリーンショット 2013-12-21 15.50.04.png](https://raw.github.com/EnsekiTT/My-Arduino/master/スクリーンショット-2013-12-21-15.50.04.png)
 
 裏面
-![スクリーンショット 2013-12-21 15.50.16.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+![スクリーンショット 2013-12-21 15.50.16.png](https://raw.github.com/EnsekiTT/My-Arduino/master/スクリーンショット-2013-12-21-15.50.16.png)
 
 ここから[FutsionPCB](http://www.seeedstudio.com/service/index.php?r=site/pcbService)などのデザインルールを適用し、ガーバーデータを作ると、発注することができます。
 
 発注すると出来上がった基板がお家に届きます。嬉しいですね。
 
-![2013-12-20155516.png](https://raw.github.com/EnsekiTT/My-Arduino/master/)
+![2013-12-20155516.png](https://raw.github.com/EnsekiTT/My-Arduino/master/2013-12-20155516.png)
 ---
